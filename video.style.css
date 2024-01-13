@@ -1,0 +1,38 @@
+.thumbnail-1 {
+  width: 100%;
+}
+.box-search {
+  display: block;
+}
+
+.video-title {
+  margin-top: 0px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.channel-picture {
+  width: 50px;
+  vertical-align: top;
+}
+
+.video-info {
+  width: 200px;
+  margin-left: 5px;
+}
+
+.profile-picture {
+  width: 50px;
+  border-radius: 25px;
+}
+.title-info {
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+.video-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 10px;
+  row-gap: 40px;
+}
